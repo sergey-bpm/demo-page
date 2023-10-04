@@ -6,4 +6,6 @@ This repository is built step by step in the tutorial.
 
 This is a new line to commit.
 
-It is addition from the GitHub's editor
+It is addition from the GitHub's editor.
+
+Check git pull.
